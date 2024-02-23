@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/zhurong0525 # change to your twitter homepage
-    - https://github.com/znhskzj # change to your github homepage
+    - https://znhskzj # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -77,6 +77,8 @@ img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
+image: /assets/img/android-chrome-512x512.png
+size: 512
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
