@@ -78,7 +78,7 @@ img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
-image: /assets/img/android-chrome-192x192.png
+image: /assets/img/avatar.png
 size: 192
 # gravatar:
   # 启用 Gravatar 头像
