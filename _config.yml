@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: 'https://znhskzj.github.io' # change to your github username
+  username: 'znhskzj' # change to your github username
 
 twitter:
   username: zhurong0525 # change to your twitter username
@@ -44,16 +44,17 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: # fill in to your verification string
-
+# fill in to your verification string
+google_site_verification: 'google03878b382b498ff9.html'
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: '7565906540'
+  # fill in your Google Analytics ID
 
 goatcounter:
-  id: # fill in your Goatcounter ID
+  id: 'https://znhskzj.goatcounter.com/count' # fill in your Goatcounter ID
 
 # Prefer color scheme setting.
 #
