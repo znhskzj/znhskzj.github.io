@@ -77,18 +77,18 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-# avatar:
-# image: /assets/img/android-chrome-192x192.png
-# size: 192
-gravatar:
+avatar:
+image: /assets/img/android-chrome-192x192.png
+size: 192
+# gravatar:
   # 启用 Gravatar 头像
-  enabled: true
+  # enabled: true
   # 默认头像大小
-  size: 100
+  # size: 100
   # 默认头像等级
-  rating: g
+  # rating: g
   # Gravatar 账户电子邮件地址
-  email: zhurong0525@gmail.com
+  # email: zhurong0525@gmail.com
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
