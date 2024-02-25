@@ -17,4 +17,4 @@ node_modules
 .vscode  # 使用 VS Code
 
 # Misc
-assets/js/dist
+# assets/js/dist
