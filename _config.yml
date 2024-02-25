@@ -50,10 +50,10 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: 7565906540 # google的数据流ID
 
 goatcounter:
-  id: # fill in your Goatcounter ID
+  id: https://znhskzj.goatcounter.com/count # fill in your Goatcounter ID
 
 # Prefer color scheme setting.
 #
@@ -76,7 +76,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar:/assets/img/favicon-32x32.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
