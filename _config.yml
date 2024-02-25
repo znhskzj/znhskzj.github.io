@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: aRong's Projects # the main title
 
-tagline:  # it will display as the sub-title
+tagline: # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Enpowering you with pratical open source solutions from Github.
@@ -76,7 +76,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:/assets/img/favicon-32x32.png
+avatar: /assets/img/favicons/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
