@@ -38,19 +38,19 @@ stick_post: no
 
 Prompt 是人与 AI 交流的桥梁。通过精心设计的 Prompt，你可以让 LLM 发挥出无限的潜力。然而，仅仅会使用 Prompt 还不够。要想真正驾驭 LLM，你需要掌握 Prompt Engineering（提示工程）的技巧。就是通过设计高效的 Prompt，引导 LLM 完成你想要的任务，Prompt Engineering 是一门新兴的技术，正在为 LLM 的应用打开无限可能。
 
-<img src="https://onedrive.live.com/embed?resid=5644DAB129AFDA10%2169445&authkey=%21AFiOKokgrzGsNxQ&width=660" width="660" height="auto" />
+<img src="https://onedrive.live.com/embed?resid=5644DAB129AFDA10%2169445&authkey=%21AFiOKokgrzGsNxQ&width=660" alt="Prompt Engingeering" width="660" height="auto" />
 
 ### AI 的耳朵：
 
 让我给你讲个小故事。想象一下，你刚搬到一个新城市，邻居送来一盆植物作为欢迎礼物。可是，你对植物一窍不通！于是，你决定求助于 AI。你会怎么说呢？如果你只是说：这盆植物怎么了？可能 AI 会一头雾水，不知道怎么回复你。但如果你说：亲爱的小助手，这是我邻居送的仙人掌，我该怎么照顾它？这样问问题，AI 才更有可能给出有用的回答。这就是 Prompt 的魔力，它就像是 AI 的耳朵，只有对准耳朵好好说话，AI 才能理解你的需求和情境。
 
-<img src="https://onedrive.live.com/embed?resid=5644DAB129AFDA10%2169449&authkey=%21AN4a37FAMNzX4Dc&width=660" width="660" height="auto" />
+<img src="https://onedrive.live.com/embed?resid=5644DAB129AFDA10%2169449&authkey=%21AN4a37FAMNzX4Dc&width=660"  alt="robot's ear" width="660" height="auto" />
 
 ### 点拨秘籍：
 
 现在，让我们一起探索如何变成 AI 交流的小能手吧！首先，我们要明确自己想要什么。就像我们向朋友寻求建议时一样，越明确越好。其次，别忘了提供一些背景信息。就像你告诉邻居你不懂植物一样，给 AI 一些背景可以帮助它更好地理解你的问题。接下来，简洁明了是关键。你不会对朋友说一个小时的故事然后才问一个小问题，对吧？最后，适度调味。就像我们在说话时会加入自己的个性一样，适当地给 Prompt 加点“调味品”会让交流更加有趣。其实，以上方法，已经有了 Prompt Engineering（提示工程）的技巧，就是通过设计高效的 Prompt，引导 LLM 完成你想要的任务。在 2023 年，Prompt Engineering 已经成为了一项能改变游戏规则的技能，随着 LLM 的不断发展，这项技能的重要性将越来越凸显。
 
-<img src="https://onedrive.live.com/embed?resid=5644DAB129AFDA10%2169444&authkey=%21AGLGExYmIa7CY4s&width=660" width="660" height="auto" />
+<img src="https://onedrive.live.com/embed?resid=5644DAB129AFDA10%2169444&authkey=%21AGLGExYmIa7CY4s&width=660"  alt="game-changing skill" width="660" height="auto" />
 
 带着这份小秘籍，我相信你很快就能和 AI 聊得热火朝天啦！继续往下看，我们还有更多有趣的小技巧等着你！
 
@@ -62,7 +62,7 @@ Prompt 是人与 AI 交流的桥梁。通过精心设计的 Prompt，你可以�
 
 记得那个新城市的小故事吗？让我告诉你一个真实的成功案例。一位好朋友最近搬家，她用一个精心准备的 Prompt 向 AI 询问如何布置新家的客厅。她说：“亲爱的小助手，我有一个 20 平方米的客厅，想要一个现代但又舒适的风格，预算在 1000 美元以内。你有什么建议吗？”结果，AI 提供了一系列家具选择、布局建议和装饰小贴士，甚至还附上了购买链接！通过提供明确的需求、空间大小和预算，她得到了非常实用的建议。这就是明确和具体的 Prompt 带来的魔力！
 
-<img src="https://onedrive.live.com/embed?resid=5644DAB129AFDA10%2169437&authkey=%21AC-HiXa-6xNwuxI&width=660" width="660" height="auto" />
+<img src="https://onedrive.live.com/embed?resid=5644DAB129AFDA10%2169437&authkey=%21AC-HiXa-6xNwuxI&width=660"  alt="the art of prompt" width="660" height="auto" />
 
 ### 与 AI 共舞：
 
@@ -79,7 +79,7 @@ Prompt 是人与 AI 交流的桥梁。通过精心设计的 Prompt，你可以�
 - 适度调味：不妨加入一些个性化的元素，让对话更有趣味。
   还记得我们谈到的关键词和迭代式对话吗？它们是舞池中的华尔兹和探戈，能让你与 AI 的对话更加和谐。
 
-<img src="https://onedrive.live.com/embed?resid=5644DAB129AFDA10%2169446&authkey=%21AAF_fr_6ihPrIIQ&width=660" width="660" height="auto" />
+<img src="https://onedrive.live.com/embed?resid=5644DAB129AFDA10%2169446&authkey=%21AAF_fr_6ihPrIIQ&width=660"  alt="the future of prompt" width="660" height="auto" />
 
 ### 你问我答：互动环节
 
@@ -102,7 +102,7 @@ A: 关于 AI，可以说的还有很多，我在文末还提供了一些文章�
 
 希望这些回答能帮助你更好地与 AI 聊天。记得，每次对话都是一次学习和探索的机会。享受与 AI 的舞蹈，让技术为你的生活增添更多色彩！
 
-<img src="https://onedrive.live.com/embed?resid=5644DAB129AFDA10%2169434&authkey=%21ALjmtJKLp1mbgPc&width=612&height=323" width="612" height="323" />
+<img src="https://onedrive.live.com/embed?resid=5644DAB129AFDA10%2169434&authkey=%21ALjmtJKLp1mbgPc&width=612&height=323"  alt="dance with robot" width="612" height="323" />
 
 如果你渴望深入了解，或者想要探索更多的 prompt 创意，这里有一些宝贵的资源推荐给你：
 
