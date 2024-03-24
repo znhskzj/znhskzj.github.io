@@ -10,6 +10,7 @@ image:
   path: "/assets/img/202403/prompt-engineering1200.png"
   lqip: "/assets/img/202403/prompt-engineering860.png"
   alt: "掌握Prompt才能让AI更懂你"
+  # 其它所有的图片均需要增加alt描述
 # 下面是WordPress插件Git it Write的字段
 post_status: publish
 # post_status: draft
