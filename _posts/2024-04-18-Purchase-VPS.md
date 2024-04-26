@@ -47,7 +47,7 @@ stick_post: no
 - **游戏服务器**：如果你的 VPS 配置允许，可以尝试搭建 Minecraft 或其他游戏的私服。
 - **其他用途**：介绍开源应用 Xray、Webmin、NextChat、Trilium 等软件的使用。
 
-如果你只是想跟随操作步骤实现特定功能，可以直接跳转到操作部分，比如这篇文章主要介绍 VPS 以及[如何购买 RackNerd VPS](#1)。
+如果你只是想跟随操作步骤实现特定功能，可以直接跳转到操作部分，比如这篇文章主要介绍 VPS 以及[如何购买 RackNerd VPS](#buyvps)。
 
 ## What & Why-什么是主机、VPS，为什么要用 VPS
 
@@ -83,7 +83,7 @@ RackNerd 是一家成立于 2019 年的主机服务商，以其高性能、低�
 
 [年付 37.38 美元的 VPS 套餐](https://my.racknerd.com/aff.php?aff=7454&pid=829)。
 
-## <h2 id="1">购买 VPS 过程（实际操作步骤）</h2>
+## <h2 id="buyvps">购买 VPS 过程（实际操作步骤）</h2>
 
 1. 选择套餐：首先定位自己的需求，选择下面适合自己的套餐:
 

@@ -192,10 +192,8 @@ GitHub 是全球最大的代码托管平台和软件开发者社区，截止 202
 
 为了让你能更直观地体验这些自托管服务，我们提供了以下演示网址，你可以通过演示网址查看：
 
-- [Cloudreve 私有云存储演示](http://106.75.216.127:5212/)，已开放邮件注册，默认组为 guest，已设置容量及传输速度限制。
 - [Jellyfin Demo](https://demo.jellyfin.org/stable/web/index.html#!/login.html?serverid=713dc3fe952b438fa70ed35e4ef0525a)
 - [NextChat Demo](https://app.nextchat.dev/)，付费用户请来信索要生产网址和密码。
-- [Trilium Demo](http://106.75.216.127:8080)，付费用户请来信索要登录密码。
 
 现在就开始你的自托管旅程吧！选择一个开源项目，跟随我们的指南，一步一步构建你的数字王国。每个人都值得拥有一个完全自主控制的数字空间。
 
