@@ -83,7 +83,7 @@ RackNerd 是一家成立于 2019 年的主机服务商，以其高性能、低�
 
 [年付 37.38 美元的 VPS 套餐](https://my.racknerd.com/aff.php?aff=7454&pid=829)。
 
-## <h2 id="buyvps">购买 VPS 过程（实际操作步骤）</h2>
+## <a id="buyvps">购买 VPS 过程（实际操作步骤）</a>
 
 1. 选择套餐：首先定位自己的需求，选择下面适合自己的套餐:
 
