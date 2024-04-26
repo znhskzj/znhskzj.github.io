@@ -134,7 +134,7 @@ GitHub 是全球最大的代码托管平台和软件开发者社区，截止 202
 
 ### 安装 Jellyfin，实现家庭的影音服务器
 
-<img src="https://onedrive.live.com/embed?resid=5644DAB129AFDA10%2169782&authkey=%21AGWvBam0MlMYIok&width=660" width="660" height="auto" />
+<img src="https://onedrive.live.com/embed?resid=5644DAB129AFDA10%2169782&authkey=%21AGWvBam0MlMYIok&width=660" alt="Jellyfin" width="660" height="auto" />
 
 - **Jellyfin**：家庭媒体服务器方案特点
   Jellyfin 完全免费和开源，你可以自由使用、修改和分发
@@ -216,4 +216,4 @@ GitHub 是全球最大的代码托管平台和软件开发者社区，截止 202
 
 如果你觉得我的文章对你有帮助，可以[请我喝咖啡](https://www.buymeacoffee.com/zhurong052Q)。
 
-<img src="https://sat02pap005files.storage.live.com/y4m1bQmI2HjlYf8y0-p5ILDLqV4klxYZjjhDZYzn60HpwCTOEot0HfRqsp5RrXVXKechgLZmehuN6udGTqYc3Qudqo73s1tqUAIJul__ZG1-YBMQGkzr8FC9gRj_ywS7n9a_Vpp87CQm1enxUNgrZSKE5wIDvhjixZA3QdOTcwjGnYZRk62QXEWOOAg83tq7Mu1?width=256&height=200&cropmode=none" width="256" height="200" />
+<img src="https://sat02pap005files.storage.live.com/y4m1bQmI2HjlYf8y0-p5ILDLqV4klxYZjjhDZYzn60HpwCTOEot0HfRqsp5RrXVXKechgLZmehuN6udGTqYc3Qudqo73s1tqUAIJul__ZG1-YBMQGkzr8FC9gRj_ywS7n9a_Vpp87CQm1enxUNgrZSKE5wIDvhjixZA3QdOTcwjGnYZRk62QXEWOOAg83tq7Mu1?width=256&height=200&cropmode=none" alt="buymeacoffee" width="256" height="200" />
