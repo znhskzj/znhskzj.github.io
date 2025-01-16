@@ -206,6 +206,6 @@ jekyll-archives:
 gitalk:
   enable: true
   github_id: znhskzj
-  repo: https://znhskzj.github.io/
+  repo: znhskzj.github.io
   client_id: Ov23li2DG4wEc2LnfVNL
   client_secret: 73eeec09e6a4bb824a5a3dd1b0e8fbc4b11cf1e0
