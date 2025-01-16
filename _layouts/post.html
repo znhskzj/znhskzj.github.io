@@ -8,7 +8,6 @@ tail_includes:
   - post-nav
   - comments
 ---
-
 {% include lang.html %}
 
 <article class="px-1">
@@ -143,15 +142,15 @@ tail_includes:
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
 <script src="/js/md5.min.js"></script>
 <script type="text/javascript">
-    var gitalk = new Gitalk({
-        clientID: 'Ov23li2DG4wEc2LnfVNL',
-        clientSecret: '73eeec09e6a4bb824a5a3dd1b0e8fbc4b11cf1e0',
-        repo: 'https://znhskzj.github.io/',
-        owner: 'znhskzj',
-        admin: ['znhskzj'],
-        id: md5(location.href.match('/(?<=posts/)(.*)(?=/)/')[1]),
-        language: 'en',
-        perPage: 10,
-    });
-    gitalk.render('gitalk-container');
+  var gitalk = new Gitalk({
+    clientID: 'Ov23li2DG4wEc2LnfVNL',
+    clientSecret: '73eeec09e6a4bb824a5a3dd1b0e8fbc4b11cf1e0',
+    repo: 'znhskzj.github.io',
+    owner: 'znhskzj',
+    admin: ['znhskzj'],
+    id: md5(location.href.match('/(?<=posts/)(.*)(?=/)/')[1]),
+    language: 'en',
+    perPage: 10
+  });
+  gitalk.render('gitalk-container');
 </script>
