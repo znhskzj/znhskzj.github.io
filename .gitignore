@@ -14,7 +14,12 @@ node_modules
 
 # IDE configurations
 .idea
-.vscode  # 使用 VS Code
+.vscode
+
+# Internal documentation
+docs/internal_guidelines.md
 
 # Misc
-# assets/js/dist
+*.log
+*.tmp
+assets/js/dist/
