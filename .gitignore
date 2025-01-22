@@ -1,23 +1,24 @@
 # Bundler cache
-.bundle
-vendor
+.bundle/
+vendor/
 
 # Jekyll cache
-.jekyll-cache
-_site
+.jekyll-cache/
+_site/
 
 # RubyGems
 *.gem
 
 # NPM dependencies
-node_modules
+node_modules/
 
 # IDE configurations
-.idea
-.vscode
+.idea/
+.vscode/
 
-# Internal documentation
+# Internal documentation and drafts
 docs/internal_guidelines.md
+drafts/
 
 # Misc
 *.log
