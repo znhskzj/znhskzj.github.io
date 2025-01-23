@@ -209,3 +209,6 @@ gitalk:
   repo: znhskzj.github.io
   client_id: Ov23li2DG4wEc2LnfVNL
   client_secret: 73eeec09e6a4bb824a5a3dd1b0e8fbc4b11cf1e0
+
+include:
+  - _assets/img
