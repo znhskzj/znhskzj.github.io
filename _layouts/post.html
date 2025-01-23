@@ -42,9 +42,9 @@ tail_includes:
 
         <div class="mt-3 mb-3">
           <img
-            src="/{{ page.image.path | remove_first: '/' }}"
-            class="preview-img{% if page.image.no_bg %} no-bg{% endif %}"
-            alt="{{ page.image.alt | xml_escape | default: "Preview Image" }}"
+            src="{{ src | remove: 'src=' | strip }}"
+            class="{{ class | remove: 'class=' | strip }}"
+            alt="{{ alt | remove: 'alt=' | strip }}"
             w="1200"
             h="630"
             {{ lqip }}
