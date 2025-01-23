@@ -23,4 +23,5 @@ drafts/
 # Misc
 *.log
 *.tmp
+.env
 assets/js/dist/
