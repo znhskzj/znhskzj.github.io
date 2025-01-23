@@ -11,7 +11,7 @@ image:
   alt: "加密货币的特点和投资指南主图"
 post_status: publish
 post_excerpt: 这篇文章为新手投资者解读加密货币的种类与风险，分享普通人参与币圈的理性路径。
-featured_image: "assets/img/202501/trump-meme1200-630.png"
+featured_image: assets/img/202501/trump-meme1200-630.png
 taxonomy:
   category:
     - 智能理财
